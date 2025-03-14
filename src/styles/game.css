@@ -16,6 +16,7 @@ td {
     text-align: center;
     font-size: 20px;
     border: 2px solid black;
+    position: relative;
 }
 
 td input {
@@ -27,4 +28,4 @@ td input {
     outline: none;
     background-color: #f8f8f8;
 }
-document.getElementById("game-container").appendChild(atividade1());
+
